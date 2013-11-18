@@ -147,4 +147,10 @@ Review this presentation on Github:
 
     https://github.com/markotibold/vim-for-the-win
 
+I used this bundle to run the presentation:
+
+.. code-block:: vim
+
+        Bundle 'sotte/presenting.vim'
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
