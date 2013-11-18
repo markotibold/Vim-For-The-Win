@@ -56,7 +56,7 @@ The Netrw File Explorer
 
 * No need for Nerdtree
 * Always open a directory listing relative to the file you are currently
-  editting in that window
+  editing in that window
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
